@@ -21,8 +21,6 @@ if(''){
 
 
 
-
-
 // 20. if("GW11b".includes("11")) Die Prüfung ist wahr. Die Methode includes prüft, ob ein String einen anderen enthält. 
 
 // 19. if("GW11b".endsWith("b")) Die Prüfung ist wahr.Die Methode endsWith prüft, ob ein String mit einen anderen String endet.
